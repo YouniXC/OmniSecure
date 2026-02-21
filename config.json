@@ -1,0 +1,19 @@
+{
+    "_help": "For Gmail use: imap.gmail.com | For Outlook use: outlook.office365.com",
+    "email_user": "Enter Your Email Address",
+    "email_pass": "Insert Email Pass Key",
+    "imap_server": "imap.gmail.com",
+    "vt_api_key": "Virus Total API Key",
+    "check_interval": 60,
+    "blocked_extensions": [".exe", ".scr", ".bat", ".txt", ".vbs"],
+    "whitelisted_domains": [
+        "linkedin.com", 
+        "google.com",
+        "smiu.edu.pk", 
+        "facebook.com", 
+        "microsoft.com", 
+        "kaggle.com", 
+        "amazon.com",
+        "upwork.com"
+    ]
+}
